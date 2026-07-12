@@ -92,7 +92,8 @@ Building this project helped strengthen my skills in:
 <img width="1472" height="2134" alt="image" src="https://github.com/user-attachments/assets/0417b256-b305-4605-96bb-299278d1407e" />
 
 <!-- ![Nexus Preview](./assets/preview.png) -->
-"C:\Users\Jayameenakshi\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 154353.png"
+<img width="1568" height="767" alt="image" src="https://github.com/user-attachments/assets/7dfd5b08-f7ff-46ec-bdc4-45796a437ad4" />
+
 ---
 
 ## 🙌 Acknowledgement
