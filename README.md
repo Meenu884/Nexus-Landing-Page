@@ -84,6 +84,8 @@ Building this project helped strengthen my skills in:
 ## 📸 Preview
 
 <!-- Add screenshots or a GIF walkthrough of the landing page here -->
+<img width="1052" height="1896" alt="image" src="https://github.com/user-attachments/assets/a25d3cbf-3698-4fc9-be17-f8d53e42e9fd" />
+
 <!-- Example: -->
 <!-- ![Nexus Preview](./assets/preview.png) -->
 
