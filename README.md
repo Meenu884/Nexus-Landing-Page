@@ -12,7 +12,7 @@ A modern, responsive landing page built for an enterprise workflow automation pl
 
 **Nexus** represents an enterprise-grade workflow automation platform through a polished, conversion-focused landing page. The project was built to practice real-world SaaS landing page patterns — from hero sections and pricing tables to scroll-triggered animations — using nothing but core web technologies.
 
-**Live Demo:** [Add your deployed link here](#)
+**Live Demo:** [<img width="1472" height="954" alt="image" src="https://github.com/user-attachments/assets/43aca83e-0cf7-463d-8ab2-428b49526cc2" />](#)
 
 ---
 
@@ -84,17 +84,13 @@ Building this project helped strengthen my skills in:
 ## 📸 Preview
 
 <!-- Add screenshots or a GIF walkthrough of the landing page here -->
-
-#MOBILE VIEW
 <!--mobile view-->
 <img width="1044" height="1738" alt="image" src="https://github.com/user-attachments/assets/ef6da9cb-6369-4079-85ff-190a30623309" />
 
 <!-- Example: -->
-#WEBSITE VIEW
 <!--desktop view-->
 <img width="1472" height="2134" alt="image" src="https://github.com/user-attachments/assets/0417b256-b305-4605-96bb-299278d1407e" />
 
-#PREVIOUS VIEW
 <!-- ![Nexus Preview](./assets/preview.png) -->
 <img width="1568" height="767" alt="image" src="https://github.com/user-attachments/assets/7dfd5b08-f7ff-46ec-bdc4-45796a437ad4" />
 
