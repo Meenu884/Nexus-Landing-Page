@@ -84,11 +84,15 @@ Building this project helped strengthen my skills in:
 ## 📸 Preview
 
 <!-- Add screenshots or a GIF walkthrough of the landing page here -->
-<img width="1052" height="1896" alt="image" src="https://github.com/user-attachments/assets/a25d3cbf-3698-4fc9-be17-f8d53e42e9fd" />
+<!--mobile view-->
+<img width="1044" height="1738" alt="image" src="https://github.com/user-attachments/assets/ef6da9cb-6369-4079-85ff-190a30623309" />
 
 <!-- Example: -->
-<!-- ![Nexus Preview](./assets/preview.png) -->
+<!--desktop view-->
+<img width="1472" height="2134" alt="image" src="https://github.com/user-attachments/assets/0417b256-b305-4605-96bb-299278d1407e" />
 
+<!-- ![Nexus Preview](./assets/preview.png) -->
+"C:\Users\Jayameenakshi\OneDrive\Pictures\Screenshots\Screenshot 2026-04-16 154353.png"
 ---
 
 ## 🙌 Acknowledgement
